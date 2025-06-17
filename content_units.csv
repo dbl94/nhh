@@ -1,26 +1,87 @@
 id,level,title,type,code,ects,semester,language
 cu_boa_0,0,Bachelor i økonomi og administrasjon,Program,,,,Norsk
-cu_bed1_1_63b637289acc,1,Grunnleggende bedriftsøkonomi,Course,BED1,7.5,autumn,Norsk
-cu_ike1_1_4f1f564939fb,1,Introduksjonskurs i etikk,Course,IKE1,3.8,autumn,Norsk.
-cu_kom1_1_bf126f47d73b,1,Kommunikasjon og kunstig intelligens,Course,KOM1,2.5,,Norsk
-cu_met1_1_5299a2d13891,1,Matematikk for økonomer,Course,MET1,7.5,autumn,Norsk
-cu_ret1_1_4ce3bf52d256,1,Rettslære for økonomer,Course,RET1,7.5,autumn,Norsk
-cu_ret1a_1_53287b811193,1,Rettslære for økonomer,Course,RET1A,5.0,,Norsk.
-cu_sam1_1_ac76e07effd2,1,Introduksjon til samfunnsøkonomi,Course,SAM1,3.8,autumn,Dansk/Norsk
-cu_sam1a_1_bea510118f82,1,"Etikk, økonomi og bærekraft",Course,SAM1A,7.5,autumn,Norwegian
-cu_met2_1_fdaa307cfdbf,1,Statistikk for økonomer,Course,MET2,7.5,spring,Norsk
-cu_sam2_1_ff7de6dbf52f,1,Mikroøkonomi,Course,SAM2,7.5,spring,Norsk.
-cu_sol1_1_89f427880ede,1,Psykologi og ledelse,Course,SOL1,7.5,spring,Norsk.
-cu_bed2_1_7ddc8a5d34fe,1,Finansregnskap,Course,BED2,7.5,autumn,Norsk
-cu_met3_1_eaf21cf9b2b7,1,Databehandling for økonomer,Course,MET3,7.5,autumn,Norsk
-cu_sol2_1_791e819490e6,1,Markedsføring,Course,SOL2,7.5,autumn,Norsk
-cu_bed3_1_6ab7952c4415,1,Investering og finans,Course,BED3,7.5,spring,Norsk
-cu_met4_1_1d3b5c475eb4,1,Empiriske metoder,Course,MET4,7.5,spring/autumn,Norsk.
-cu_sam3_1_86eebe25ea50,1,Makroøkonomi,Course,SAM3,7.5,spring,Norsk.
-cu_bed4_1_865e95761e8b,1,Bedriftsøkonomiske beslutninger,Course,BED4,7.5,autumn,Norsk.
-cu_sam4_1_030d3c7fc534,1,Internasjonal handel og velferdsteori,Course,SAM4,7.5,autumn,Norsk.
-cu_sam4a_1_8f445e855eb6,1,Anvendt økonomi,Course,SAM4A,7.5,,Norsk og Engelsk. Emnet undervises på norsk om høsten og engelsk på våren.
-cu_sol3_1_70290da46e1b,1,Organisasjonen,Course,SOL3,7.5,autumn,Norsk
-cu_bed5_1_1556e16069fa,1,Økonomisk styring,Course,BED5,7.5,spring,Norsk
-cu_sol4_1_92f2348ac2ec,1,Strategisk ledelse,Course,SOL4,7.5,spring,Norsk.
-cu_sam26_1_8743d2955951,1,Past and Future of Globalization,Course,SAM26,7.5,,English.
+cu_bed1_1_461060f72366,1,Grunnleggende bedriftsøkonomi,Course,BED1,7.5,autumn,Norsk
+cu_ike1_1_edcf6d71b500,1,Introduksjonskurs i etikk,Course,IKE1,3.8,autumn,Norsk.
+cu_kom1_1_f12efdedd955,1,Kommunikasjon og kunstig intelligens,Course,KOM1,2.5,,Norsk
+cu_met1_1_a90410d8328a,1,Matematikk for økonomer,Course,MET1,7.5,autumn,Norsk
+cu_ret1_1_9bfb161a5019,1,Rettslære for økonomer,Course,RET1,7.5,autumn,Norsk
+cu_ret1a_1_427e644b4592,1,Rettslære for økonomer,Course,RET1A,5.0,,Norsk.
+cu_sam1_1_a176f2819793,1,Introduksjon til samfunnsøkonomi,Course,SAM1,3.8,autumn,Dansk/Norsk
+cu_sam1a_1_ab8ba3b4d4db,1,"Etikk, økonomi og bærekraft",Course,SAM1A,7.5,autumn,Norwegian
+cu_met2_1_556b54213722,1,Statistikk for økonomer,Course,MET2,7.5,spring,Norsk
+cu_sam2_1_a7a72ceecc6f,1,Mikroøkonomi,Course,SAM2,7.5,spring,Norsk.
+cu_sol1_1_b06331cb0a62,1,Psykologi og ledelse,Course,SOL1,7.5,spring,Norsk.
+cu_bed2_1_3f798a5d1bd8,1,Finansregnskap,Course,BED2,7.5,autumn,Norsk
+cu_met3_1_3048fea3c8e1,1,Databehandling for økonomer,Course,MET3,7.5,autumn,Norsk
+cu_sol2_1_54fc06d1d870,1,Markedsføring,Course,SOL2,7.5,autumn,Norsk
+cu_bed3_1_b43a5275f00c,1,Investering og finans,Course,BED3,7.5,spring,Norsk
+cu_met4_1_0d92e845d74b,1,Empiriske metoder,Course,MET4,7.5,spring/autumn,Norsk.
+cu_sam3_1_1824ef1ee91d,1,Makroøkonomi,Course,SAM3,7.5,spring,Norsk.
+cu_bed4_1_370177fb81b0,1,Bedriftsøkonomiske beslutninger,Course,BED4,7.5,autumn,Norsk.
+cu_sam4_1_e91233bf1f18,1,Internasjonal handel og velferdsteori,Course,SAM4,7.5,autumn,Norsk.
+cu_sam4a_1_ad8a770b3934,1,Anvendt økonomi,Course,SAM4A,7.5,,Norsk og Engelsk. Emnet undervises på norsk om høsten og engelsk på våren.
+cu_sol3_1_eca5e036c695,1,Organisasjonen,Course,SOL3,7.5,autumn,Norsk
+cu_bed5_1_f1ed3d8af13a,1,Økonomisk styring,Course,BED5,7.5,spring,Norsk
+cu_sol4_1_53d58f58ab69,1,Strategisk ledelse,Course,SOL4,7.5,spring,Norsk.
+cu_sam26_1_3547dad8e671,1,Past and Future of Globalization,Course,SAM26,7.5,,English.
+cu_for14_1_466c7d371ae4,1,Algorithms and Computer Programming with Python,Course,FOR14,7.5,autumn,English
+cu_for11_1_298068c95669,1,Business Taxation,Course,FOR11,7.5,spring,English
+cu_for15_1_70e8d9cfd876,1,Environmental Economics and Markets,Course,FOR15,7.5,spring,English.
+cu_for16_1_74faedaf0dea,1,Sustainable investments,Course,FOR16,7.5,spring,English
+cu_for18_1_fbc4d2634a09,1,Maritime Economics,Course,FOR18,7.5,spring,English.
+cu_for19_1_cbf25bce57b7,1,Green Digitalization and App Development,Course,FOR19,7.5,spring,English.
+cu_for20_1_d2f43fd75632,1,Introduction to Blockchain,Course,FOR20,7.5,spring,English
+cu_for21_1_f328c31096ad,1,Eierstyring og Private Equity,Course,FOR21,7.5,spring,Norsk
+cu_for12_1_b711f1d7550d,1,Economic Crime: Determinants and Prevention (not offered),Course,FOR12,7.5,,English
+cu_sam12_1_ec2c37d2a0c0,1,International Economic History since 1750,Course,SAM12,7.5,autumn,English for teaching and examination.
+cu_sam15_1_cfc1a4d37072,1,Firm Strategy and Competition,Course,SAM15,7.5,autumn,English.
+cu_sam17_1_a8a671c0401b,1,"Economics, Behavior and Psychology",Course,SAM17,7.5,autumn,English.
+cu_sam20_1_6ee1cb24a5cf,1,"Energy, Environment and Sustainability",Course,SAM20,7.5,autumn,English.
+cu_sam13_1_aad24e431af3,1,Norsk økonomisk historie fra 1800 til vår tid,Course,SAM13,7.5,spring,Norsk.
+cu_sam14_1_af0fe3afbc35,1,Historical Development of Modern Business,Course,SAM14,7.5,spring,English
+cu_sam16_1_0de221653389,1,Economic Growth and Development,Course,SAM16,7.5,spring,English.
+cu_sam23_1_6cf06b3d3b44,1,Climate Policies and Green Investments Opportunities,Course,SAM23,7.5,spring,Norwegian
+cu_sam24_1_ebe0e50a6b16,1,"Incentives, Politics, and Behavior",Course,SAM24,7.5,spring,Norsk.
+cu_sam25_1_835498bfaef5,1,"Shaping the Future of Work: Technology, Skills, and Power",Course,SAM25,7.5,spring,Norwegian
+cu_sam22_1_4d07e6e4fdb8,1,Experimental Methods in Business and Economics,Course,SAM22,7.5,,English
+cu_sol13_1_9af067e7e1cc,1,Purchasing Strategy and Supply Chain Management,Course,SOL13,7.5,autumn,English
+cu_sol11_1_6c488552e607,1,Project Management,Course,SOL11,7.5,spring,<p>English.</p><p>Norwegian speaking students may choose to use the Norwegian version of the textbook. The project assignment can be written in English or in Norwegian.</p>
+cu_sol21_1_aa0e3c1754c2,1,Happiness and the Good Life: How to make better decisions,Course,SOL21,7.5,spring,English
+cu_sol12_1_c1821faa8ad6,1,Management Consulting,Course,SOL12,7.5,spring/autumn,English.
+cu_sol16_1_02dc5c1dced5,1,Introduction to International Business (not offered),Course,SOL16,7.5,,English
+cu_sol17_1_b17d2500ee97,1,Business Intelligence,Course,SOL17,7.5,,Engelsk
+cu_sol22_1_b9722d39daf0,1,Fundamentals of Innovation and Technology Management,Course,SOL22,7.5,,English.
+cu_bed3e_1_be48ee139547,1,Finance,Course,BED3E,7.5,autumn,English
+cu_fin11_1_4918a7f30a75,1,Trading and Market Microstructure,Course,FIN11,7.5,autumn,English
+cu_fin14_1_2431dcf1f43e,1,Business Cases,Course,FIN14,7.5,autumn,English.
+cu_fin16_1_7867a44ea322,1,Financial Economics,Course,FIN16,7.5,autumn,English
+cu_fin10_1_f6d082c1a051,1,Introductory Applied Finance,Course,FIN10,7.5,spring,English
+cu_fin15_1_683bc83da7c4,1,Key Concepts in Finance,Course,FIN15,7.5,,English
+cu_rrr10_1_4623fc1e0946,1,Corporate Governance and Management Control,Course,RRR10,7.5,autumn,English.
+cu_rrr11_1_220b0280d83f,1,Moderne regnskapsførsel i egen bedrift,Course,RRR11,7.5,autumn,Norsk
+cu_ret11_1_1682e42e1ccd,1,Juss for næringsdrivende,Course,RET11,7.5,spring,Norsk
+cu_ret14_1_e8ef0bfe7838,1,Skatterett,Course,RET14,7.5,spring,Norsk
+cu_rrr13_1_d47b6ecc65eb,1,"Business ethics, social responsibility, and sustainability",Course,RRR13,7.5,,English
+cu_rrr14_1_2168259382f6,1,Introduction to Sustainable Business,Course,RRR14,7.5,,English.
+cu_mat11_1_b8c477be8a5e,1,Differens- og differensiallikninger,Course,MAT11,7.5,autumn,Norsk
+cu_mat12_1_b8009f060cde,1,Sannsynlighet og data science,Course,MAT12,7.5,autumn,Norsk
+cu_mat10_1_863388852cd1,1,Analyse og lineær algebra,Course,MAT10,7.5,spring,Norsk
+cu_mat14_1_2e7d4ea8fcee,1,Mathematical Finance,Course,MAT14,7.5,spring,English
+cu_mat16_1_91455caf8f3e,1,Computational Finance with Python,Course,MAT16,7.5,spring,English
+cu_mat13_1_7fed6a0ee315,1,Optimering,Course,MAT13,7.5,,Norsk
+cu_mat15_1_73e69417cdfa,1,Risiko og forsikring,Course,MAT15,7.5,,Norsk
+cu_eng11_1_ade28ff5b00b,1,English for leadership communication (C1),Course,ENG11,7.5,autumn,"The course is taught in English, but with a considerable component of Norwegian terminology. Competence in Norwegian or another Scandinavian language is therefore recommended for taking the course."
+cu_fsk20_1_05897c2b4745,1,Working successfully across cultures,Course,FSK20,7.5,autumn,English
+cu_eng10_1_9d2b96c6af99,1,English for Business Communication (C1),Course,ENG10,7.5,spring,Engelsk
+cu_fra21_1_c20bcf3f32ec,1,Fransk for næringslivet (A0-A2),Course,FRA21,7.5,spring,Fransk/norsk.
+cu_fra22_1_4e35d2063aa3,1,Fransk for næringslivet II (B1),Course,FRA22,7.5,autumn,"Fransk/norsk. Høsten 2025 endres undervisningsspråket til fransk/engelsk (Starting Autumn 2025, the teaching language will switch to French/English)."
+cu_jap10_1_b350888ffa2d,1,Japansk (A1),Course,JAP10,7.5,spring,"Undervisningsspråket er primært norsk og japansk, men engelsk vil bli brukt når det er nødvendig."
+cu_jap11_1_b77cf2a7078e,1,Japansk (A2),Course,JAP11,7.5,autumn,"Norsk og japansk. Høsten 2025 endres undervisningsspråket til engelsk og japansk (Starting Autumn 2025, the teaching language will switch to English and Japanese)."
+cu_jap12_1_3b08d04b08e8,1,Japansk 3 (tilbys ikke),Course,JAP12,7.5,,Norsk og japansk (kan undervises på engelsk om nødvendig)
+cu_spa20_1_bb005c2998d4,1,"Den spansktalende verden i dag: økonomi, samfunn og kultur (B2)",Course,SPA20,7.5,autumn,"Norsk og spansk. Høsten 2025 endres undervisningsspråket til engelsk og spansk (Starting Autumn 2025, the teaching language will switch to English and Spanish)."
+cu_spa10_1_20f0dae77f61,1,Spansk språk (B1),Course,SPA10,7.5,spring,"Norsk og spansk, men engelsk ved behov."
+cu_spa13_1_47dcd5c53285,1,Economía y sociedad en el mundo hispanohablante (B2+),Course,SPA13,7.5,spring,Spansk
+cu_tys11_1_d001aa4630e2,1,Tysk for næringslivet II (B2),Course,TYS11,7.5,autumn,"Tysk og norsk. Høsten 2025 endres undervisningsspråket til engelsk og tysk (Starting Autumn 2025, the teaching language will switch to English and German)."
+cu_tys10_1_f4a33a4ab9cf,1,Tysk for næringslivet (B1),Course,TYS10,7.5,spring,Tysk.
+cu_int111_1_072ee8258ee1,1,Praksissemester Sør-Afrika,Course,INT111,30.0,spring,engelsk/norsk
+cu_intern_a_b_1_75b05021198f,1,Internship abroad Bachelor,Course,INTERN-A-B,7.5,spring/autumn,Norsk
